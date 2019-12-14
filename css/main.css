@@ -27,7 +27,7 @@ html {
   transform: translateX(-50%);
   bottom: -.5rem;
   padding-left: 1.5rem;
-  padding-right: 1.5rem
+  padding-right: 1.5rem;
 }
 
 body {
@@ -39,7 +39,7 @@ h2 span {
   background-color: rgba(0, 0, 0, .5);
 }
 
-h2 {
+ h2 {
   font-weight: bold;
   font-family: "Open Sans", serif;
   text-decoration: none;
